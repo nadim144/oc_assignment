@@ -1,0 +1,119 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ generated include file.
+// Used by DoctorAppointment.rc
+//
+#define IDM_ABOUTBOX                    0x0010
+#define IDD_ABOUTBOX                    100
+#define IDS_ABOUTBOX                    101
+#define IDD_DLG_DOCTORAPPOINTMENT       102
+#define IDD_TAB_DASHBOARD               105
+#define IDR_MAINFRAME                   128
+#define IDD_DLG_LOGIN                   130
+#define IDD_TAB_DOCTORS                 131
+#define IDD_TAB_SCHEDULE                132
+#define IDD_TAB_APPOINTMENT             133
+#define IDD_TAB_PATIENT                 134
+#define IDD_ADD_DOCTOR_DIALOG           135
+#define IDD_DLG_ADDDOCTORS              139
+#define IDD_DIALOG1                     141
+#define IDD_DLG_ADDPATIENTS             141
+#define IDD_DIALOG2                     143
+#define IDD_DLG_ADD_PATIENTS            143
+#define IDC_STATIC_USERROLE             1000
+#define IDC_STATIC_USERNAME             1001
+#define IDC_STATIC_USERPASSWRD          1002
+#define IDC_COMBO_USERROLE              1003
+#define IDC_EDIT_USERNAME               1004
+#define IDC_EDIT_USERPASSWRD            1005
+#define IDC_STATIC_WELCOMETEXT          1006
+#define IDC_MFCBUTTON1                  1007
+#define IDC_MFCBUTTON_LOGIN             1008
+#define IDC_MFCBUTTON_CANCLE            1009
+#define IDC_STATIC_UNAMEPASSINFO        1010
+#define IDC_BUTTON1                     1011
+#define IDC_BTTN_SEARCH                 1011
+#define IDC_BUTTON_ADDDOCTOR            1011
+#define IDC_BTTN_ADDDOCTORS             1011
+#define IDC_BTTN_SUBMIT                 1011
+#define IDC_BTTN_PATIENT_REFRESH        1011
+#define IDC_DATETIMEPICKER1             1012
+#define IDC_BUTTON_ADDPATIENT           1012
+#define IDC_BUTTON_ADDNEWBOOKING        1013
+#define IDC_MFCFONTCOMBO1               1014
+#define IDC_BUTTON_ADDTODAYSESSION      1014
+#define IDC_STATIC_USERNAME_LOGEDIN     1015
+#define IDC_STATIC_USERLOGEDIN_EMAIL    1016
+#define IDC_EDIT_SEARCHFIELD            1017
+#define IDC_STATIC_TODAYDATE            1018
+#define IDC_STATIC_DATE                 1019
+#define IDC_BUTTON2                     1020
+#define IDC_BTTN_LOGOUT                 1020
+#define IDC_BTTN_RESET                  1020
+#define IDC_BTTN_DOCTOR_REFRESH         1020
+#define IDC_TAB_CONTROL                 1021
+#define IDC_EDIT1                       1022
+#define IDC_EDIT_DOCFIRSTNAME           1022
+#define IDC_BUTTON_DASHBOARD            1023
+#define IDC_EDIT_DOCLASTNAME            1023
+#define IDC_BUTTON_DOCTORS              1024
+#define IDC_STATIC_TEXT_STATUS          1024
+#define IDC_EDIT_DOCEMAILID             1024
+#define IDC_BUTTON_SCHEDULE             1025
+#define IDC_STATIC_TEXT_DOCTORSCOUNT    1025
+#define IDC_EDIT_DOCMOBILE              1025
+#define IDC_BUTTON_APPOINTMENT          1026
+#define IDC_STATIC_TEXT_DOCTORS         1026
+#define IDC_EDIT_DOCLOCATION            1026
+#define IDC_BUTTON_PATIENT              1027
+#define IDC_STATIC_TEXT_PATIENTCOUNT    1027
+#define IDC_EDIT_DOCSTATE               1027
+#define IDC_STATIC_TEXT_PATIENT         1028
+#define IDC_EDIT_DOCCOUNTRY             1028
+#define IDC_STATIC_TEXT_NEWBOOKINGCOUNT 1029
+#define IDC_STATIC_TEXT_NEWBOOKING      1030
+#define IDC_STATIC_TEXT_TODAYSESSIONS   1031
+#define IDC_STATIC_TEXT_TODAYSESSION    1032
+#define IDC_LIST1                       1035
+#define IDC_LIST_ADDDOCTOR              1035
+#define IDC_LIST_ADDNEWDOCTORS          1035
+#define IDC_LIST_PATIENT                1036
+#define IDC_STATIC_TXT_ADDDOCTORS       1037
+#define IDC_STATIC_TXT_DOCDESCP         1038
+#define IDC_STATIC_TXT_DOCFIRSTNAME     1039
+#define IDC_STATIC_TXT_DOCSPECIALIZATION 1040
+#define IDC_STATIC_TX_DOCEMAIL          1041
+#define IDC_STATIC_TXT_DOCMOBILE        1042
+#define IDC_STATIC_TXT_DOCLOCATION      1043
+#define IDC_STATIC_TXT_DOCSTATE         1044
+#define IDC_STATIC_TXT_DOCCOUNTRY       1045
+#define IDC_STATIC_TXT_DOCLASTNAME      1046
+#define IDC_COMBO1                      1047
+#define IDC_STATIC_TXT_PATIENT_DESCRIPTION 1048
+#define IDC_STATIC_TXT_PATIENT_FNAME    1049
+#define IDC_STATIC_TXT_PATIENT_LNAME    1050
+#define IDC_STATIC_TXT_PATIENT_EMAIL    1051
+#define IDC_STATIC_TXT_PATIENT_MOBILE   1052
+#define IDC_STATIC_TXT_PATIENT_LOCATION 1053
+#define IDC_STATIC_TXT_PATIENT_STATE    1054
+#define IDC_STATIC_TXT_PATIENT_COUNTRY  1055
+#define IDC_EDIT_PATIENT_FNAME          1056
+#define IDC_EDIT_PATIENT_LNAME          1057
+#define IDC_EDIT_PATIENT_EMAIL          1058
+#define IDC_EDIT_PATIENT_MOBILE         1059
+#define IDC_EDIT_PATIENT_LOCATION       1060
+#define IDC_EDIT_PATIENT_STATE          1061
+#define IDC_EDIT_PATIENT_COUNTRY        1062
+#define IDC_STATIC_TXT_ADDPATIENTS      1063
+#define IDC_BTTN_ADDPATIENTS            1064
+#define IDC_LIST_ADDNEWPATIENTS         1065
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        145
+#define _APS_NEXT_COMMAND_VALUE         32771
+#define _APS_NEXT_CONTROL_VALUE         1066
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
